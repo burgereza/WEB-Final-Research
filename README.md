@@ -491,4 +491,23 @@ GET /db/_design/design-doc : این URL برای دریافت تعریف یک س
 GET /db/_design/designdoc/_view/view-name : این URL برای دسترسی به view، view-name از سند طراحی از پایگاه داده مشخص شده استفاده می شود.
 
 <br>
+<br>
+منابع:
+<ul>
+<li>https://couchdb.apache.org/</li>
+<li>https://www.tutorialspoint.com/couchdb/couchdb_curl_futon.htm</li>
+<li>https://www.tutorialspoint.com/couchdb/index.htm</li>
+<li>https://www.tutorialspoint.com/couchdb/index.htm</li>
+<li>https://www.w3schools.blog/couchdb-tutorial</li>
+<li>https://hyperledger-fabric.readthedocs.io/en/release-2.5/couchdb_tutorial.html</li>
+</ul>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+گردآوری شده توسط:
+
+<ul>
+سید رضا قمقام-حسین صبحی-دانیال براری
